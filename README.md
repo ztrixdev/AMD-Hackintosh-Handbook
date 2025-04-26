@@ -22,7 +22,7 @@ layout:
 
 This is the AMD Hackintosh Handbook made by [ztrix](https://github.com/ztrixdev/) (and [you?](contribution.md))
 
-This little article collection will try to guide you through all steps necessary for a good Hackintosh run on your AMD-based PC.
+This little article collection will try to guide you through some cruicial things for a good Hackintosh run on your AMD-based PC.
 
 The language used here is ultra-informal, and if you're not okay with it, I don't really care that much :3 (yes I am a silly person)
 
