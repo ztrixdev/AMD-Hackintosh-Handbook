@@ -1,17 +1,20 @@
 # Table of contents
 
 * [Hello!](README.md)
+* [Contribution](contribution.md)
 
-## Getting Started
+## Prerequisites
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Choosing your hardware and OS](prerequisites/choosing-your-hardware-and-os.md)
+* [Gathering AMD-specific stuff](prerequisites/gathering-amd-specific-stuff.md)
+* [Creating the installer (Windows)](prerequisites/creating-the-installer-windows.md)
 
-## Basics
+## Post-Install fuckery
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Common Issues](post-install-fuckery/common-issues.md)
+
+***
+
+* [Discord freaking out](discord-freaking-out.md)
+* [Docker/Podman - making it work (kinda)](docker-podman-making-it-work-kinda.md)
+* [How to run VirtualBox](how-to-run-virtualbox.md)
