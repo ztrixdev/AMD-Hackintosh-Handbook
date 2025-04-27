@@ -18,3 +18,4 @@
 * [Discord freaking out](discord-freaking-out.md)
 * [Docker/Podman - making it work (kinda)](docker-podman-making-it-work-kinda.md)
 * [How to run VirtualBox](how-to-run-virtualbox.md)
+* [Setting up sleep + RyzenPatch script](setting-up-sleep-+-ryzenpatch-script.md)
